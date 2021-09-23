@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-22T19:19:09 IST" name="Default suite" finished-at="2021-09-22T19:19:10 IST" duration-ms="84">
+  <suite started-at="2021-09-23T15:07:07 IST" name="Default suite" finished-at="2021-09-23T15:07:07 IST" duration-ms="115">
     <groups>
     </groups>
-    <test started-at="2021-09-22T19:19:09 IST" name="Default test" finished-at="2021-09-22T19:19:10 IST" duration-ms="84">
-      <class name="tyss.contact.ContactTest">
-        <test-method signature="cereateContactTest()[pri:0, instance:tyss.contact.ContactTest@29e495ff]" started-at="2021-09-22T19:19:09 IST" name="cereateContactTest" finished-at="2021-09-22T19:19:10 IST" duration-ms="12" status="PASS">
+    <test started-at="2021-09-23T15:07:07 IST" name="Default test" finished-at="2021-09-23T15:07:07 IST" duration-ms="115">
+      <class name="tyaa.product.CreateProductTest">
+        <test-method signature="createProduct()[pri:0, instance:tyaa.product.CreateProductTest@29e495ff]" started-at="2021-09-23T15:07:07 IST" name="createProduct" finished-at="2021-09-23T15:07:07 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cereateContactTest -->
-        <test-method signature="cereateContactWithORGTest()[pri:0, instance:tyss.contact.ContactTest@29e495ff]" started-at="2021-09-22T19:19:10 IST" name="cereateContactWithORGTest" finished-at="2021-09-22T19:19:10 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- createProduct -->
+        <test-method signature="createProductwithInfo()[pri:0, instance:tyaa.product.CreateProductTest@29e495ff]" started-at="2021-09-23T15:07:07 IST" name="createProductwithInfo" finished-at="2021-09-23T15:07:07 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cereateContactWithORGTest -->
-        <test-method signature="deleteContactTest()[pri:0, instance:tyss.contact.ContactTest@29e495ff]" started-at="2021-09-22T19:19:10 IST" name="deleteContactTest" finished-at="2021-09-22T19:19:10 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteContactTest -->
-      </class> <!-- tyss.contact.ContactTest -->
+        </test-method> <!-- createProductwithInfo -->
+      </class> <!-- tyaa.product.CreateProductTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
